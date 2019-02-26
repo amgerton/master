@@ -1,4 +1,6 @@
-### zylab 6.18 ###         help at lab hours
+# Seating Chart Application
+ ''' # of guests are obtained from the user and so are the certain about of guests you must seat at each of the tables
+ '''
 
 
 def factorial(x):               # factorial function
