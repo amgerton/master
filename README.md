@@ -1,5 +1,7 @@
 # master
 
+Statisical Problem (Analysis of Variance)
+
 # Problem 1
 Prepared an aligned residual dot plots by agenta and normal probability plot (Q-Q plot) of the residuals.
 
